@@ -1,1 +1,2 @@
 Olá Git, essa é a introdução da Gen.
+Vamos começar então!
